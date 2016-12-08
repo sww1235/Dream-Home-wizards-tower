@@ -17,7 +17,7 @@ avoid interfering with the lighting truss. Fireplace is wood burning
 all furniture/appliances are on casters to allow for flexibility, with plug and
 cord connected appliances and electronics connected to plugs in the ceiling.
 
-Kitchen is 
+Kitchen is industrial and all electric.
 
 Free space can be utilized for workspace if needed
 
