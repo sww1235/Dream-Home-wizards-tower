@@ -1,5 +1,13 @@
 # Dream-Home-wizards-tower
 
+## TODO
+
+-   add more windows, especially to bathrooms
+-   work on lighting design more
+-   add lighting pipes at ceiling level on all floors around perimeter of cutout
+-   add in ceiling, 6" dropped ceiling with dark wood panels at least on ground floor.
+-   put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.
+
 general style is a combination between medieval and modern. Lots of slate and
 wood, but open plan layouts and not a lot of walls. Heavy curtains for
 partitions or custom built modular partitions.
@@ -7,6 +15,19 @@ partitions or custom built modular partitions.
 HVAC is 4 pipe system with localized ZCUs, as well as a global air
 recirculation/filtration system. Also allows for adding local components to HVAC
 loop such as water cooled computers or mini ZCUs.
+
+Primary illumination on all floors is provided by
+[WL 72º RGBW LED](https://www.thelightsource.com/products/wl-series-led-fixture-109)
+fixtures (12 per 20A 120V circuit)
+
+Secondary illumination in center of ground floor provided by either
+[RD 72º RGBW LED](https://www.thelightsource.com/products/rd-series-led-fixtures-137) or
+[WL 72º RGBW LED](https://www.thelightsource.com/products/wl-series-led-fixture-109)
+fixtures (12 per 20A 120V circuit)
+
+Lots of greenery and hanging plants/vines on walls. Some used for partitions.
+
+Bathrooms on outside of house have windows
 
 ## Ground floor
 
@@ -50,7 +71,8 @@ Has a guest suite as well as a workshop, home theatre and storage.
 
 ## Floor -2
 
-Has datacenter and electrical distribution gear + storage
+Has datacenter and electrical distribution gear + storage. Workshop may extend
+to this floor.
 
 ## Floor -3
 
