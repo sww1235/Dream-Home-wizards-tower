@@ -25,9 +25,19 @@ Secondary illumination in center of ground floor provided by either
 [WL 72º RGBW LED](https://www.thelightsource.com/products/wl-series-led-fixture-109)
 fixtures (12 per 20A 120V circuit)
 
+Additional RGBW tape under the lip of the stairs/RGBW led spots mounted on the
+wire of the railings.
+
 Lots of greenery and hanging plants/vines on walls. Some used for partitions.
 
 Bathrooms on outside of house have windows
+
+## Outlet planning
+
+### Ground floor
+
+2 lighting circuits in ceiling for WL lights, at least 2 more circuits in
+ceiling for other stuff like powered speakers, etc.
 
 ## Ground floor
 
