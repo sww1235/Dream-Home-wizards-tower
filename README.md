@@ -3,10 +3,16 @@
 ## TODO
 
 -   add more windows, especially to bathrooms
+-   North is oriented towards elevator
+-   move entrance to south west side
+-   add patio along east side of house
+-   add more windows into east wall of house
 -   work on lighting design more
 -   add lighting pipes at ceiling level on all floors around perimeter of cutout
 -   add in ceiling, 6" dropped ceiling with dark wood panels at least on ground floor.
--   put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.
+-   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
+-   add chimney in center of house.
+-   change wall doors to tracked style
 
 general style is a combination between medieval and modern. Lots of slate and
 wood, but open plan layouts and not a lot of walls. Heavy curtains for
@@ -39,11 +45,24 @@ Bathrooms on outside of house have windows
 2 lighting circuits in ceiling for WL lights, at least 2 more circuits in
 ceiling for other stuff like powered speakers, etc.
 
+Bathroom outlet and lighting circuit
+
+## Appliances
+
+### Commerical Option
+-   Hobart LXeR dishwasher
+-   Hobart HEC5D convection oven
+
+### Residential Option
+
+-   GE Café French Door Convection Wall Oven
+
 ## Ground floor
 
 Ground floor is open plan kitchen/living room/dining room. Has central circular
 fireplace with circular suspended chimney above it. This goes over floor 4 to
-avoid interfering with the lighting truss. Fireplace is wood burning
+avoid interfering with the lighting truss. With removable supports connected to
+fireplace. Fireplace is wood burning.
 
 all furniture/appliances are on casters to allow for flexibility, with plug and
 cord connected appliances and electronics connected to plugs in the ceiling.
