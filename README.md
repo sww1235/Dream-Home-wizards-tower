@@ -12,7 +12,16 @@
 -   add in ceiling, 6" dropped ceiling with dark wood panels at least on ground floor.
 -   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
 -   add chimney in center of house.
--   change wall doors to tracked style
+-   ~~change wall doors to tracked style~~
+
+## Floor space planning
+
+Area of circle 𝜋R²
+
+-   Ground floor is 18' radius ==> 1,017.87 ft²
+-   First floor is
+
+## General Description
 
 general style is a combination between medieval and modern. Lots of slate and
 wood, but open plan layouts and not a lot of walls. Heavy curtains for
@@ -21,6 +30,12 @@ partitions or custom built modular partitions.
 HVAC is 4 pipe system with localized ZCUs, as well as a global air
 recirculation/filtration system. Also allows for adding local components to HVAC
 loop such as water cooled computers or mini ZCUs.
+
+Lots of greenery and hanging plants/vines on walls. Some used for partitions.
+
+Bathrooms on outside of house have windows
+
+## Lighting stuff
 
 Primary illumination on all floors is provided by
 [WL 72º RGBW LED](https://www.thelightsource.com/products/wl-series-led-fixture-109)
@@ -33,10 +48,6 @@ fixtures (12 per 20A 120V circuit)
 
 Additional RGBW tape under the lip of the stairs/RGBW led spots mounted on the
 wire of the railings.
-
-Lots of greenery and hanging plants/vines on walls. Some used for partitions.
-
-Bathrooms on outside of house have windows
 
 ## Outlet planning
 
