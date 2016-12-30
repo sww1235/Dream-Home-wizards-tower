@@ -20,6 +20,9 @@ Area of circle 𝜋R²
 
 -   Ground floor is 18' radius ==> 1,017.87 ft²
 -   First floor is
+-   Second floor is
+-   Third floor is
+-   Fourth floor is 15' radius w/ 6' radius hole ==> 593.8 ft²
 
 ## General Description
 
