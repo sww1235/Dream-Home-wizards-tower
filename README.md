@@ -13,6 +13,7 @@
 -   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
 -   add chimney in center of house.
 -   ~~change wall doors to tracked style~~
+-   On floors 1 and 2, have hallway on outside with interior windows in bedrooms
 
 ## Floor space planning
 
