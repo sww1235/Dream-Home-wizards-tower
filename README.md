@@ -4,7 +4,7 @@
 
 -   add more windows, especially to bathrooms
 -   North is oriented towards elevator
--   move entrance to south west side
+-   ~~move entrance to south west side~~
 -   add patio along east side of house
 -   add more windows into east wall of house
 -   work on lighting design more
@@ -14,14 +14,16 @@
 -   add chimney in center of house.
 -   ~~change wall doors to tracked style~~
 -   On floors 1 and 2, have hallway on outside with interior windows in bedrooms
+-   think about combining floor 3 and 4 into library/lounge and adding windows
+-   or shrinking overall footprint to allow for greater height. Probably eliminate a floor
 
 ## Floor space planning
 
 Area of circle 𝜋R²
 
 -   Ground floor is 18' radius ==> 1,017.87 ft²
--   First floor is
--   Second floor is
+-   First floor is 17'3" radius w/ 6' radius hole ==> 821.7 ft²
+-   Second floor is 16'6" radius w/ 6' radius hole ==> 742.2 ft²
 -   Third floor is
 -   Fourth floor is 15' radius w/ 6' radius hole ==> 593.8 ft²
 
