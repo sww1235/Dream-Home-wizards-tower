@@ -55,7 +55,22 @@ fixtures (12 per 20A 120V circuit)
 Additional RGBW tape under the lip of the stairs/RGBW led spots mounted on the
 wire of the railings.
 
+## General Technology
+
+### Radio
+
+-   UHF commerical MotoTrbo repeater
+-   2M + 70cm + 1.25M amateur repeater
+
+-   HF radio
+-
 ## Outlet planning
+
+each "room" needs a lighting outlet which will be manually switched with remote
+control posibilities. This will be used for an LED floodlight as a backup and to
+satisfy NEC requirements.
+
+2 additional lighting circuits per floor
 
 ### Ground floor
 
