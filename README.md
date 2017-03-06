@@ -2,20 +2,22 @@
 
 ## TODO
 
--   add more windows, especially to bathrooms
--   North is oriented towards elevator
--   ~~move entrance to south west side~~
--   add patio along east side of house
--   add more windows into east wall of house
+-   add chimney in center of house.
 -   work on lighting design more
+-   rethink layer heights and levels, especially in terms of ceilings and floors.
+-   rethink basement, maybe shrink down, but keep in mind space for mechanical systems.
 -   add lighting pipes at ceiling level on all floors around perimeter of cutout
 -   add in ceiling, 6" dropped ceiling with dark wood panels at least on ground floor.
--   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
--   add chimney in center of house.
--   ~~change wall doors to tracked style~~
--   On floors 1 and 2, have hallway on outside with interior windows in bedrooms
 -   think about combining floor 3 and 4 into library/lounge and adding windows
 -   or shrinking overall footprint to allow for greater height. Probably eliminate a floor
+-   ~~add more windows, especially to bathrooms~~
+-   ~~North is oriented towards elevator~~
+-   ~~move entrance to south west side~~
+-   ~~add patio along east side of house~~
+-   ~~add more windows into east wall of house~~
+-   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
+-   ~~change wall doors to tracked style~~
+-   ~~On floors 1 and 2, have hallway on outside with interior windows in bedrooms~~
 
 ## Floor space planning
 
@@ -24,18 +26,21 @@ Area of circle 𝜋R²
 -   Ground floor is 18' radius ==> 1,017.87 ft²
 -   First floor is 17'3" radius w/ 6' radius hole ==> 821.7 ft²
 -   Second floor is 16'6" radius w/ 6' radius hole ==> 742.2 ft²
--   Third floor is
+-   Third floor is 15'3" radius w/ 6' radius hole ==> 617.5 ft²
 -   Fourth floor is 15' radius w/ 6' radius hole ==> 593.8 ft²
 
 ## General Description
 
-general style is a combination between medieval and modern. Lots of slate and
-wood, but open plan layouts and not a lot of walls. Heavy curtains for
-partitions or custom built modular partitions.
+House is sited so that the elevator shaft is facing north. The elevator shaft is
+embedded in a hill with the majority of the house with southern exposure.
 
-HVAC is 4 pipe system with localized ZCUs, as well as a global air
-recirculation/filtration system. Also allows for adding local components to HVAC
-loop such as water cooled computers or mini ZCUs.
+general style is a combination between medieval and modern. Lots of slate and
+wood, but open plan layouts and not a lot of walls.
+
+HVAC is 4 pipe system with localized ZCUs + zoned radiant heat, as well as a
+global air recirculation/filtration/humidification system. Also allows for
+adding local components to HVAC loop such as water cooled computers or mini
+ZCUs.
 
 Lots of greenery and hanging plants/vines on walls. Some used for partitions.
 
@@ -60,17 +65,21 @@ wire of the railings.
 ### Radio
 
 -   UHF commerical MotoTrbo repeater
--   2M + 70cm + 1.25M amateur repeater
+-   2M + 70cm + 1.25M amateur repeaters
 
 -   HF radio
--
+
+
+## Network Planning
+
+
 ## Outlet planning
 
 each "room" needs a lighting outlet which will be manually switched with remote
 control posibilities. This will be used for an LED floodlight as a backup and to
 satisfy NEC requirements.
 
-2 additional lighting circuits per floor
+2-3 additional lighting circuits per floor
 
 ### Ground floor
 
