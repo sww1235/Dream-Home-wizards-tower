@@ -3,13 +3,16 @@
 ## TODO
 
 -   add chimney in center of house.
+-   redo third and potentially second floor to get rid of all around walkway and move bathroom towards atrium.
 -   work on lighting design more
 -   rethink layer heights and levels, especially in terms of ceilings and floors.
 -   rethink basement, maybe shrink down, but keep in mind space for mechanical systems.
 -   add lighting pipes at ceiling level on all floors around perimeter of cutout
 -   add in ceiling, 6" dropped ceiling with dark wood panels at least on ground floor.
 -   think about combining floor 3 and 4 into library/lounge and adding windows
--   or shrinking overall footprint to allow for greater height. Probably eliminate a floor
+or shrinking overall footprint to allow for greater height. Probably eliminate a floor
+-   Add demand column and total column for electrical calcs amperage
+-   Standardize subtotals row and implement if statement for total amps cell
 -   ~~add more windows, especially to bathrooms~~
 -   ~~North is oriented towards elevator~~
 -   ~~move entrance to south west side~~
@@ -61,6 +64,8 @@ Additional RGBW tape under the lip of the stairs/RGBW led spots mounted on the
 wire of the railings.
 
 ## General Technology
+
+-   in wall vacuum system
 
 ### Radio
 
