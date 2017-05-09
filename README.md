@@ -13,6 +13,7 @@
 or shrinking overall footprint to allow for greater height. Probably eliminate a floor
 -   Add demand column and total column for electrical calcs amperage
 -   Standardize subtotals row and implement if statement for total amps cell
+-   How to integrate plants/planters into ground floor. Want feeling of being in jungle.
 -   ~~add more windows, especially to bathrooms~~
 -   ~~North is oriented towards elevator~~
 -   ~~move entrance to south west side~~
