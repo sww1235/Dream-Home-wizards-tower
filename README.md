@@ -52,7 +52,7 @@ Bathrooms on outside of house have windows
 
 ## Lighting stuff
 
-Primary illumination on all floors is provided by
+Primary illumination on ground floor is provided by
 [WL 72º RGBW LED](https://www.thelightsource.com/products/wl-series-led-fixture-109)
 fixtures (12 per 20A 120V circuit)
 
@@ -63,6 +63,20 @@ fixtures (12 per 20A 120V circuit)
 
 Additional RGBW tape under the lip of the stairs/RGBW led spots mounted on the
 wire of the railings.
+
+For other floors and providing additional illumination on ground floor (or
+replacing the above depending on cost), are custom built RGBAW led fixtures.
+These contain an arduino and sensors and use POE for data and power. Sensors
+include:
+
+-   Thermal (wet and dry bulb)
+-   humidity
+-   air quality (co2, o2, co, other polutants and gasses, ideally a wide spectrum sensor)
+-   presence detection (Ultrasonic, infrared, radar)
+-   light levels
+
+They might also contain additional connections for switches or door/window
+position sensors.
 
 ## General Technology
 
@@ -78,6 +92,16 @@ wire of the railings.
 
 ## Network Planning
 
+Datacenter in basement. Dual pfSense routers in failover mode. At least two
+different fiber lines from different carriers, as well as a satelite link.
+
+Central fiber trunk runs up in mechanical space near kitchen, with at least one
+POE managed switch on each floor.
+
+Distribution cable is carried in trays that run in the beam interstitial space.
+
+Each light switch and custom light needs a POE network port. Also every universe
+of DMX needs a network port.
 
 ## Outlet planning
 
