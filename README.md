@@ -14,6 +14,11 @@ or shrinking overall footprint to allow for greater height. Probably eliminate a
 -   Add demand column and total column for electrical calcs amperage
 -   Standardize subtotals row and implement if statement for total amps cell
 -   How to integrate plants/planters into ground floor. Want feeling of being in jungle.
+-   Add custom wooden suspended ceilings over certain areas on ground floor,
+dining and living room, have them on tracks so they can be moved around. Use light
+source mini can LED lights in suspended ceiling. want to not have "grid" look,
+potentially have uplights/indirect light either shining through boards, or
+bouncing off ceiling
 -   ~~add more windows, especially to bathrooms~~
 -   ~~North is oriented towards elevator~~
 -   ~~move entrance to south west side~~
