@@ -38,6 +38,8 @@ Area of circle 𝜋R²
 -   Third floor is 15'3" radius w/ 6' radius hole ==> 617.5 ft²
 -   Fourth floor is 15' radius w/ 6' radius hole ==> 593.8 ft²
 
+Total 3793 sq ft
+
 ## General Description
 
 House is sited so that the elevator shaft is facing north. The elevator shaft is
