@@ -2,16 +2,17 @@
 
 ## TODO
 
--   add chimney in center of house.
 -   redo third and potentially second floor to get rid of all around walkway and move bathroom towards atrium.
+-   Reimplement tracked elevator blocking walls in Revit
 -   work on lighting design more
--   rethink layer heights and levels, especially in terms of ceilings and floors.
+-   ~~rethink layer heights and levels, especially in terms of ceilings and floors.~~
 -   rethink basement, maybe shrink down, but keep in mind space for mechanical systems.
 -   add lighting pipes at ceiling level on all floors around perimeter of cutout
--   add in ceiling, 6" dropped ceiling with dark wood panels at least on ground floor.
--   think about combining floor 3 and 4 into library/lounge and adding windows
-or shrinking overall footprint to allow for greater height. Probably eliminate a floor
+-   add in ceiling, 6" *dropped* ceiling with dark wood panels at least on ground floor.
+-   ~~think about combining floor 3 and 4 into library/lounge~~ and adding windows
+or shrinking overall footprint to allow for greater height.
 -   Add demand column and total column for electrical calcs amperage
+-   Sink living room area into floor.
 -   Standardize subtotals row and implement if statement for total amps cell
 -   How to integrate plants/planters into ground floor. Want feeling of being in jungle.
 -   Add custom wooden suspended ceilings over certain areas on ground floor,
@@ -19,14 +20,14 @@ dining and living room, have them on tracks so they can be moved around. Use lig
 source mini can LED lights in suspended ceiling. want to not have "grid" look,
 potentially have uplights/indirect light either shining through boards, or
 bouncing off ceiling
--   ~~add more windows, especially to bathrooms~~
+-   add more windows, especially to bathrooms
 -   ~~North is oriented towards elevator~~
 -   ~~move entrance to south west side~~
--   ~~add patio along east side of house~~
+-   add patio along east side of house
 -   ~~add more windows into east wall of house~~
 -   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
 -   ~~change wall doors to tracked style~~
--   ~~On floors 1 and 2, have hallway on outside with interior windows in bedrooms~~
+-   On floors 1 and 2, have hallway on outside with interior windows in bedrooms
 
 ## Floor space planning
 
@@ -51,7 +52,8 @@ wood, but open plan layouts and not a lot of walls.
 HVAC is 4 pipe system with localized ZCUs + zoned radiant heat, as well as a
 global air recirculation/filtration/humidification system. Also allows for
 adding local components to HVAC loop such as water cooled computers or mini
-ZCUs.
+ZCUs. Windows are also interconnected into the HVAC system so that automatic
+natural heating/cooling can happen as well.
 
 Lots of greenery and hanging plants/vines on walls. Some used for partitions.
 
@@ -137,10 +139,14 @@ Bathroom outlet and lighting circuit
 
 ## Ground floor
 
-Ground floor is open plan kitchen/living room/dining room. Has central circular
-fireplace with circular suspended chimney above it. This goes over floor 4 to
-avoid interfering with the lighting truss. With removable supports connected to
-fireplace. Fireplace is wood burning.
+Ground floor is open plan kitchen/living room/dining room. Living room is at the
+base of the central atrium and is sunken about 1 foot to create a space
+deliniation. The kitchen has a different flooring material with no seams to
+allow for easy cleaning. The rest of the flooring is large slate tiles, ideally
+with irregular joints to look more like a flagstone floor but with the joints
+sealed against moisture and to allow for easy sweeping.
+
+Living room has a rug, along with couches and a coffee table.
 
 all furniture/appliances are on casters to allow for flexibility, with plug and
 cord connected appliances and electronics connected to plugs in the ceiling.
@@ -163,14 +169,18 @@ bathroom to serve first and third floors, potentially part of library
 
 ## Floor 3
 
-Second bedroom/third bedroom and powder room?
+library, observatory. Has wall mounted bookshelves and reading tables/chairs.
+
+Also has the power and data connections for the truss equipment and any other
+cord/hose drops in the center of the house.
 
 ## Floor 4
 
-library, observatory, potentially have a loft or catwalk in the middle of the
-room over the beams for the hoist motors. Also has the power and data
-connections for the truss equipment and any other cord/hose drops in the center
-of the house.
+This has a walkway around the edge in order to get to the second tier of
+shelving.
+
+potentially have a loft or catwalk in the middle of the room over the beams for
+the hoist motors.
 
 ## Floor -1
 
