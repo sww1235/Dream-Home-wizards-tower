@@ -47,7 +47,8 @@ House is sited so that the elevator shaft is facing north. The elevator shaft is
 embedded in a hill with the majority of the house with southern exposure.
 
 general style is a combination between medieval and modern. Lots of slate and
-wood, but open plan layouts and not a lot of walls.
+wood, but open plan layouts and not a lot of walls. Medieval simplicity, with
+less of hogwarts ornateness on the interior. Old tower - new interior.
 
 HVAC is 4 pipe system with localized ZCUs + zoned radiant heat, as well as a
 global air recirculation/filtration/humidification system. Also allows for
