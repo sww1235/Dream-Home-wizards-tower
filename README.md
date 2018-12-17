@@ -28,6 +28,7 @@ bouncing off ceiling
 -   ~~put workshop area by elevator and combine half of -1 and -2 to give more ceiling height.~~
 -   ~~change wall doors to tracked style~~
 -   On floors 1 and 2, have hallway on outside with interior windows in bedrooms
+-   flow meters on io of water loops for leak detection
 
 ## Floor space planning
 
