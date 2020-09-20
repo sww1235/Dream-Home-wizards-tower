@@ -1,5 +1,13 @@
 # Dream-Home-wizards-tower
 
+The overall idea of the house, is that it was built by a typical fantasy wizard
+several millenia ago, and then lost after he passed away. I found it and
+renovated it while keeping the original character of the house (quirky and
+natural)
+
+Want to use natural materials as much as possible (wood and stone) while still
+keeping high energy efficiency.
+
 ## TODO
 
 -   redo third and potentially second floor to get rid of all around walkway and move bathroom towards atrium.
@@ -42,10 +50,44 @@ Area of circle 𝜋R²
 
 Total floorspace 3793 sq ft
 
+## Load planning
+
+loads from roof level:
+
+-	Steel 22 Gauge standing seam conical roof
+-	Maintance catwalk constructed of steel with open grate composite floor with exterior railing designed to support communication antennas and lighting fixtures. Use live and dead load estimates from theatrical catwalks.
+- 4 pick points for 2 ton hoists in central atrium area on underside of beams (want at least a 3x safety factor for each pick point)
+
 ## General Description
 
-House is sited so that the elevator shaft is facing north. The elevator shaft is
-embedded in a hill with the majority of the house with southern exposure.
+### Building code stuff
+
+Using IRC/IBC 2018 codes, house probably doesn't fall under the IRC due to the
+use of heavy timber and concrete construction. The IRC has specific
+construction styles that it covers, and in the 2018 codes, it primarily covers
+balloon/platform framing.
+
+Based on this, the house would fall under R-3 residential occupancy.
+Quoting the code: "Section 310.4 Residential Group R-3. Buildings that do
+not contain more than two dwelling units"
+
+Section 405 doesn't apply due to exception 1 of 405.1, since the building
+is sprinklered per 903.3.1.3
+
+section 420.2 separation walls may apply
+
+max height (table 504.3) and max stories (table 504.4) for HT construction
+in R occupancies is 60 ft (R3 stories 4) with sprinklers according to
+903.3.1.2 or 903.3.1.3 , and 85 ft with sprinklers according to 903.3.1.1
+(R3 stories 5). All new R occupancies must be sprinklered.
+
+Section 505.3 Equipment platforms are not considered a story or part of the
+story below. they do not contirbute to building area or number of stories.
+
+### General notes
+
+House is sited so that the elevator shaft is facing north. The elevator shaft
+is embedded in a hill with the majority of the house with southern exposure.
 
 general style is a combination between medieval and modern. Lots of slate and
 wood, but open plan layouts and not a lot of walls. Medieval simplicity, with
