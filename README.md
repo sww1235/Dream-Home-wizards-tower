@@ -8,6 +8,12 @@ natural)
 Want to use natural materials as much as possible (wood and stone) while still
 keeping high energy efficiency.
 
+## Repository Notes
+
+rezip.py is from [costerwi/rezip](https://github.com/costerwi/rezip) and is
+used to uncompress the freecad files so they work with git better. It is copied
+into the repo itself for ease of use. The post processing is done using .gitattributes
+
 ## TODO
 
 -   redo third and potentially second floor to get rid of all around walkway and move bathroom towards atrium.
