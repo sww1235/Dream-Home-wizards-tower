@@ -2,3 +2,4 @@ VW Backup/
 *.lck
 *.pdf
 Publish Log.txt
+*.swp 
