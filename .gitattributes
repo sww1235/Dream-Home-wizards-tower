@@ -1,2 +1,3 @@
 # Freecad documents
 *.fcstd filter=rezip
+*.fcstd diff
