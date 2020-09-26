@@ -60,7 +60,9 @@ loads from roof level:
 
 ## General Description
 
-### Building code stuff
+### Code notes/references
+
+#### IBC/IRC
 
 Using IRC/IBC 2018 codes, house probably doesn't fall under the IRC due to the
 use of heavy timber and concrete construction. The IRC has specific
@@ -72,19 +74,137 @@ Quoting the code: "Section 310.4 Residential Group R-3. Buildings that do
 not contain more than two dwelling units"
 
 Section 405 doesn't apply due to exception 1 of 405.1, since the building
-is sprinklered per 903.3.1.3
+is sprinklered per &sect;903.3.1.3
 
 section 420.2 separation walls may apply
 
 max height (table 504.3) and max stories (table 504.4) for HT construction
 in R occupancies is 60 ft (R3 stories 4) with sprinklers according to
-903.3.1.2 or 903.3.1.3 , and 85 ft with sprinklers according to 903.3.1.1
+&sect;903.3.1.2 or &sect;903.3.1.3 , and 85 ft with sprinklers according to &sect;903.3.1.1
 (R3 stories 5). All new R occupancies must be sprinklered.
 
 Section 505.3 Equipment platforms are not considered a story or part of the
 story below. they do not contirbute to building area or number of stories.
 
+May need an exception to Section 712.1.2 unless floors 3 and 4 can count as one story or floor 4 can count as a mezzanine.
+
+&sect;705.8.5 vertical separation of openings. Windows have to be seperated vertically not less than 3ft, unless building is sprinklered with regards to &sect;903.3.1.1 or &sect;903.3.1.2
+
+&sect;705.10 ducts and air transfer openings have to be protected if they are in fire resistance rated exterior walls. &sect;717 may also apply.
+
+
+
+**equipment shafts**:
+
+section 713 
+
+need 2 hour fire rating (&sect;713.4) on enclosing walls (penetrates 4 or more floors), as well as top if shaft does not extend to roof and bottom if shaft does not extend to bottom of building.
+
+will need fire rated ceiling, since it will not extend past floor 3. Will extend to bottom of building and terminate in electrical room, which needs the same 2hr fire rated construction as the shaft.
+
+Will need at least 1.5 hr fire rated doors in shaft openings (table 716.1(2))
+
+table 721.1(2) has fire resistance ratings for walls and partitions of various materials
+
+&sect;713.6 shaft walls that are also exterior walls should comply with sections of 705 that apply to exterior walls.
+
+this won't affect the house, since the exterior walls will be much thicker than required for a 2 hr fire rating.
+
+&sect;717 ducts that penetrate shaft walls may require fire dampers. May want to put ventilation ducting not inside mechanical shaft (or not have a mechanical shaft at all)
+
+&sect;803.15 will apply to any false/dropped ceilings, and any interior finishes attached to the concrete walls (stone etc) except for paint.
+
+**sprinkler systems**
+
+&sect;903.2 exception: server rooms, battery rooms and telecom closets don't need sprinklers if they are provided with smoke detection and separted by at least 1 hr fire barriers from other spaces.
+
+&sect;903.2.8.1 R3 occupancies need sprinkler systems but they may comply with 903.3.1.3
+
+903.3.1.1 is NFPA 13 sprinkler systems
+
+903.3.1.2 is NFPA 13R sprinkler systems
+
+903.3.1.3 is NFPA 13D sprinkler system
+
+May have to install standpipe based on &sect;905.3 and AHJ requirements
+
+&sect;907.2.22 need smoke detection in battery rooms
+
+table 1404.2 - natural stone on exterior wall needs to be 2" thick
+
+&sect; 1505 - type 4 (HT) construction requires minimum class B roof. Slate roof installed on ASTM D226 type 2 asphalt felt #30 felt is class A, as is standing seam metal roof installed on noncombustible deck, or without roof deck on noncombustible framing.
+
+**Can't walk on slate roofs**
+
+
+slate roof should have deflection of 1/720, any other roof needs 1/360
+
+Table 1604.5 - This structure is risk category II
+
+Table 1607.1 Live loads - includes info about catwalks.
+
+&sect;1607.14 Crane Loads - Using this for the hoist loads. Live load is the rated capacity.
+
+#### IECC
+
+Since the house is 4 stories, the commercial provisions of the IECC apply.
+
+Park County is in zone 7
+
+Minimum requirements for opaque thermal envelope insulation components based on Table C402.1.3. Zone 7 Group R numbers as follows: 
+
+Insulation entirely above roof deck needs R-35 continuous insulation
+Mass walls need minimum R15.2 of continuous insulation.
+Below grade walls need minimum R10 of continuous insulation.
+Mass floors need minimum R16.7 continuous insulation
+joist/framing floors need minimum R30 insulation
+
+### Construction notes
+
+#### Roof
+
+Conical roof.
+
+Standing seam metal roofing with layers as follows. See ![JLC roof details](roof-details-jlc.jpg) for more info. From [JLC](https://www.jlconline.com/how-to/insulation/avoiding-wet-roofs-part-ii_o)
+
+-	metal roof panels
+
+-	Underlayment
+
+-	Sheathing
+
+-	2x4 spacers oriented vertically (16" on center)
+	This creates an air gap for venting the underside of the sheathing.
+
+-	Sheathing
+
+-	Mineral Wool board insulation - Comfortboard 110
+
+-	Air sealing - spray foam (maybe)
+
+-	Sheathing/ceiling support (may be ceiling material as well)
+
+-	Ceiling material (Optional)
+
+-	Joists
+
+-	Ceiling material (Optional)
+
+Insulation and sheathing sandwitch extends out into overhang over joists.
+There is a nailer/support around the entire perimeter of the roof, which has the trim over it. The trim is the same material as the metal roof panels.
+
+The vent channel has a fascia board protecting it, with a metal drip edge over it. There is an internal mesh screen in the vent opening.
+
+will need point ridge vent on top.
+
+Catwalk installed over roof using standing seam clamps <https://s-5.com/products/utility-solutions/walkways/> and non metallic walkway boards.
+
+Heavy timber framing for roof, probably 8 main joists.
+
+
 ### General notes
+
+
 
 House is sited so that the elevator shaft is facing north. The elevator shaft
 is embedded in a hill with the majority of the house with southern exposure.
