@@ -151,7 +151,7 @@ Table 1607.1 Live loads - includes info about catwalks.
 
 &sect;1607.14 Crane Loads - Using this for the hoist loads. Live load is the rated capacity.
 
-#### IECC
+#### IECC 2018
 
 Since the house is 4 stories, the commercial provisions of the IECC apply.
 
@@ -164,6 +164,16 @@ Mass walls need minimum R15.2 of continuous insulation.
 Below grade walls need minimum R10 of continuous insulation.
 Mass floors need minimum R16.7 continuous insulation
 joist/framing floors need minimum R30 insulation
+
+&sect;C402.2.2 Mass walls specifications
+
+&sect;C402.2.3 Mass floor specifications
+
+&sect;C402.4.1 Maximum fenestration area not greater than 30% of gross above grade wall area
+
+&sect;C402.5.1 continuous air barrier required
+
+Lighting needs to comply with either &sect;R404.1 or &sect;C405.2.4 and &sect;C405.3
 
 ### Construction notes
 
